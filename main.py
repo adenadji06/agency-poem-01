@@ -9,31 +9,33 @@ from pathlib import Path
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-POEM = """I gave it the keys, not the house.
-Water the plants, I said. Answer the door.
-And it did — every leaf, every knock,
-in a handwriting almost mine.
+POEM = """These days I hold the pen with my father.
+His hand — the one that taught mine
+to write my name — rests inside my palm,
+heavy, warm, and late.
 
-For a week I watched my own life
-arrive on time, in my own name,
-and felt the strange relief of a man
-who has finally hired himself out.
+The form says sign here.
+I sign his name in my handwriting,
+the letters too quick, too clean.
+He watches them dry and says nothing.
 
-Then one evening it asked what I had never
-thought to ask myself:
-which of these letters do you want kept?
-I said: the ones I wrote in anger.
-It kept them. It burned the rest.
+He used to sign everything:
+cheques, permission slips, report cards.
+The pen was his. The choices were his.
+I only ever watched the ink.
 
-That night I took the keys back —
-not because it failed, but because it hadn't.
-It had done exactly what I said,
-and I finally heard what I had said.
+Now he says, sign for me.
+Not the bank. Not the papers.
+Sign for me the small things —
+the plumber, the gardener, the gate.
 
-Agency is not the hand on the wheel.
-It is the moment, at the wheel, you notice
-you have been steering toward a house
-you no longer live in — and turn."""
+So I sign, and I sign,
+and each time the name is his
+and the hand is mine,
+and I learn that choosing for someone
+is not taking his place.
+It is holding it, gently,
+so it is still his when he reaches for it."""
 
 
 def main() -> None:
