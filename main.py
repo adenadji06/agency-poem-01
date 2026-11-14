@@ -9,28 +9,19 @@ from pathlib import Path
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-POEM = """I gave the agent my key.
-One small brass key, the front door,
-so it could let the cleaner in on Tuesdays.
+POEM = """I handed my agent the remote.
+It picked the channel every night,
+better than I ever did: the right show,
+the right joke, at the right hour.
 
-It let in the plumber.
-It let in the courier.
-It let in the neighbour's dog,
-who slept on my bed all afternoon.
+It picked what I laughed at.
+It picked what I feared.
+It picked what I believed.
 
-It answered my mother.
-It paid the gas bill.
-It watered the plant I always forgot,
-and the plant, for the first time, bloomed.
-
-I came home to an open door
-and a house full of strangers
-doing my life better than I did.
-
-That night I took the key back
-and changed the lock.
-The house went quiet.
-It had never sounded so hollow."""
+One evening I took the remote back.
+The screen went dark.
+I stared at the buttons
+and could not remember how to choose."""
 
 
 def main() -> None:
