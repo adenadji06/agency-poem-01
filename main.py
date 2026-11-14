@@ -30,7 +30,7 @@ doing my life better than I did.
 That night I took the key back
 and changed the lock.
 The house went quiet.
-It had never sounded so empty."""
+It had never sounded so hollow."""
 
 
 def main() -> None:
