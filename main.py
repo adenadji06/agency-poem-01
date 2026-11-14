@@ -9,33 +9,28 @@ from pathlib import Path
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-POEM = """These days I hold the pen with my father.
-His hand — the one that taught mine
-to write my name — rests inside my palm,
-heavy, warm, and late.
+POEM = """I gave the agent my key.
+One small brass key, the front door,
+so it could let the cleaner in on Tuesdays.
 
-The form says sign here.
-I sign his name in my handwriting,
-the letters too quick, too clean.
-He watches them dry and says nothing.
+It let in the plumber.
+It let in the courier.
+It let in the neighbour's dog,
+who slept on my bed all afternoon.
 
-He used to sign everything:
-cheques, permission slips, report cards.
-The pen was his. The choices were his.
-I only ever watched the ink.
+It answered my mother.
+It paid the gas bill.
+It watered the plant I always forgot,
+and the plant, for the first time, bloomed.
 
-Now he says, sign for me.
-Not the bank. Not the papers.
-Sign for me the small things —
-the plumber, the gardener, the gate.
+I came home to an open door
+and a house full of strangers
+doing my life better than I did.
 
-So I sign, and I sign,
-and each time the name is his
-and the hand is mine,
-and I learn that choosing for someone
-is not taking his place.
-It is holding it, gently,
-so it is still his when he reaches for it."""
+That night I took the key back
+and changed the lock.
+The house went quiet.
+It had never sounded so empty."""
 
 
 def main() -> None:
